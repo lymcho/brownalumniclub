@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Brown Club in NY Email Design</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <style type="text/css">
+
+  .email {margin:auto;margin-top: 0px; margin-bottom:30px;border: 2px solid #ffffff; padding-top:0px;padding-left:20px; padding-right:20px;width:600px; border-collapse: collapse;}
+  .logo {padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;}
+  .image {padding-top: 10px; padding-right: 10px; padding-bottom: 20px; padding-left: 10px;}
+  .headline{font-family: Arial;font-weight:bold;line-height: 1.1em;font-size:50px; text-align: center;color:#cc0000; padding-top: 0px; padding-right: 40px; padding-bottom: 0px; padding-left: 40px;}
+  .twocolumns{font-family: source sans pro;line-height: 1.2em;font-size:18px; padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;}
+  .calltoaction{margin:auto;padding-top: 10px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;background-color:#cc0000;color:#ffffff;width: 30%;border-radius: 5px;}
+  .cta-text{text-align:center;font-family:arial;font-weight:bold;font-size:16px;padding-top:5px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;}
+  .extra-info{margin:auto;padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px;background-color:#e7e4e4;color:#000000;border-radius: 0px;}
+  .extra-info-text{text-align:center;font-family:arial;font-weight:bold;line-height:1.2em;font-size:12px;padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px;}
+  .socialmedia{padding-top: 10px;padding-right:100px; padding-bottom: 40px; padding-left: 100px;margin:auto;-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;}
+  .footer{text-align:center;font-family:arial;;line-height:1.2em;font-size:10px;padding-top: 10px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px;}
+
+  h1{font-family: Arial;font-weight:bold;line-height: 1.1em;font-size:20px; text-align: center;color:#808080; padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;}
+  h2{font-family: Arial;font-weight:bold;line-height: 1.1em;font-size:14px; text-align: center;color:#444444; padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;}
+  p{font-weight:bold;text-align:center;font-family: source sans pro;color:#444444;line-height: 1.2em;font-size:18px; padding-top: 0px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px;}
+
+  </style>
+
+</head>
+
+<body>
+
+<div class="email"> 
+	 	
+	<div class="logo">
+		 <img src="http://i.imgur.com/glb7plb.jpg" alt="logo" width="600" height="150" style="display: block;" /></div>
+
+	<div class="image">
+		  
+		   	<img src="http://i.imgur.com/5PIiCJZ.jpg" alt="logo" width="600" height="210" style="display: block;" />
+		 
+		  </div>
+
+	<h2><center>JOIN US FOR OUR BIGGEST EVENT OF THE YEAR</center></h2>
+	
+	<div class="headline"> 
+		   	The Brown Club in NY Kick Off Gala!</div>
+	<h2><center>* Drinking * Dancing * Dinner</center></h2>
+	<h1>Wednesday | November 18 | 7-10pm</h1>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar erat nec egestas vehicula. Vestibulum pulvinar finibus diam. Nulla faucibus arcu nisi, fermentum placerat erat luctus id. </p>
+	
+
+	<!--Use this code if there's 2-column cotent
+	<div>&nbsp;</div>
+	<div class="twocolumns">
+		<table>
+		  <tr>
+			  <td width="260" valign="Left">
+			 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar erat nec egestas vehicula. Vestibulum pulvinar finibus diam. Nulla faucibus arcu nisi, 
+			  </td>
+			  <td style="font-size: 0; line-height: 0;" width="20">
+			   &nbsp;
+			  </td>
+			  <td width="260" valign="left">
+			  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar erat nec egestas vehicula. Vestibulum pulvinar finibus diam. Nulla faucibus arcu nisi, 
+			  </td>
+			</tr>
+		</table></div>-->
+
+	<div class="image">
+		  
+		   	<img src="http://i.imgur.com/wEAy1AC.jpg?1" alt="logo" width="600" height="190" style="display: block;" />
+		 
+		   </div>
+
+	<div class="calltoaction">
+	<center>
+	<table><tr><td><div class="cta-text">Get Tickets Now</div></td></tr></table></div>
+	</center>
+	<div>&nbsp;</div>
+	<div>&nbsp;</div>
+
+	<div class="extra-info">
+	<center>
+	<table><tr><td><div class="extra-info-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar erat nec egestas vehicula. </div></td></tr></table></div>
+	</center>
+	
+	<div class="socialmedia">
+    <center><table>
+    	<tr>
+    		<td><a href="http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*" target="_blank"><img src="http://cdn-images.mailchimp.com/icons/social-block-v2/dark-twitter-48.png" style="display:block;" height="24" width="24" class=""></a></td>
+    		<td><a href="http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*" target="_blank"><img src="http://cdn-images.mailchimp.com/icons/social-block-v2/dark-facebook-48.png" style="display:block;" height="24" width="24" class=""></a></td>
+    		<td><a href="*|FORWARD|*" target="_blank"><img src="http://cdn-images.mailchimp.com/icons/social-block-v2/dark-forwardtofriend-48.png" style="display:block;" height="24" width="24" class=""></a></td>
+    </table></center></div>
+
+    <div class="footer">                    
+ 	Copyright © *|CURRENT_YEAR|* The Brown University Club in NY, All rights reserved.Want to change how you receive these emails?ou can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a></div>
+                          
+                                
+                                     
+                                                 
+</div>
+</body>
+</html>
